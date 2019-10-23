@@ -24,7 +24,7 @@ def directors_totals(nds)
     result[nds[director][:name]] = gross
     director += 1
   end
-p result
+return result
 
 
 
