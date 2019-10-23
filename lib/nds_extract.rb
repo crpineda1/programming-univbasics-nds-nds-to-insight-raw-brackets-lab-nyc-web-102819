@@ -3,7 +3,6 @@ require 'directors_database'
 
 
 
-p directors_database.count
 
 
 def directors_totals(nds)
